@@ -122,7 +122,7 @@ img {
 }
 
 .section-btn {
-	background: #db3636;
+	background: #3f260cba;
 	border-radius: 4px;
 	color: #ffffff;
 	font-size: 18px;
@@ -152,14 +152,14 @@ a {
 	-webkit-transition: ease-in-out 0.3s;
 	-moz-transition: ease-in-out 0.3s;
 	-ms-transition: ease-in-out 0.3s;
-	color: #db3636;
+	color: #3f260cba;
 	text-decoration: none !important;
 }
 
 a:hover,
 a:active,
 a:focus {
-	color: #db3636;
+	color: #3f260cba;
 	outline: none;
 }
 
@@ -196,7 +196,7 @@ a:focus {
 
 .section-title h3:after {
 	content: '';
-	background: #db3636;
+	background: #3f260cba;
 	height: 2px;
 	width: 60px;
 	position: absolute;
@@ -207,7 +207,7 @@ a:focus {
 
 .section-title h3:before {
 	content: '';
-	background: #db3636;
+	background: #3f260cba;
 	height: 9px;
 	width: 4px;
 	position: absolute;
@@ -217,7 +217,7 @@ a:focus {
 }
 
 .section-title h3 span {
-	color: #db3636;
+	color: #3f260cba;
 	font-weight: 400;
 }
 
@@ -855,13 +855,13 @@ a:focus {
 }
 
 .is-sticky .custom-navbar .navbar-brand {
-	color: #db3636;
+	color: #3f260cba;
 	line-height: 20px;
 }
 
 .is-sticky .custom-navbar .nav li .calltxt {
-	color: #db3636;
-	border-color: #db3636;
+	color: #3f260cba;
+	border-color: #3f260cba;
 	margin-top: 10px;
 }
 
@@ -900,7 +900,7 @@ img.whtlogo {
 }
 
 .custom-navbar .navbar-toggle .icon-bar {
-	background: #db3636;
+	background: #3f260cba;
 	border-color: transparent;
 }
 
@@ -941,7 +941,7 @@ img.whtlogo {
 }
 
 .custom-navbar .nav li .dropdown-menu li a:hover {
-	background: #db3636;
+	background: #3f260cba;
 	color: #fff;
 }
 
@@ -954,7 +954,7 @@ img.whtlogo {
 }
 
 .subpage .custom-navbar .navbar-brand {
-	color: #db3636;
+	color: #3f260cba;
 }
 
 .subpage .custom-navbar .nav li .calltxt {
@@ -963,13 +963,13 @@ img.whtlogo {
 }
 
 .custom-navbar .nav li:hover>a {
-	background-color: #db3636;
+	background-color: #3f260cba;
 	color: #fff;
 }
 
 .custom-navbar .nav li.active>a {
 	background-color: transparent;
-	color: #db3636;
+	color: #3f260cba;
 }
 
 
@@ -1072,12 +1072,12 @@ img.whtlogo {
 }
 
 #simplecolors {
-	background-color: #db3636;
-	background-image: -webkit-linear-gradient(bottom, #db3636, #000);
-	background-image: -moz-linear-gradient(bottom, #db3636, #000);
-	background-image: -o-linear-gradient(bottom, #db3636, #000);
-	background-image: -ms-linear-gradient(bottom, #db3636, #000);
-	background-image: linear-gradient(to top, #db3636, #000);
+	background-color: #3f260cba;
+	background-image: -webkit-linear-gradient(bottom, #3f260cba, #000);
+	background-image: -moz-linear-gradient(bottom, #3f260cba, #000);
+	background-image: -o-linear-gradient(bottom, #3f260cba, #000);
+	background-image: -ms-linear-gradient(bottom, #3f260cba, #000);
+	background-image: linear-gradient(to top, #3f260cba, #000);
 	color: #fff;
 	height: 100%;
 	position: relative;
@@ -1161,7 +1161,7 @@ header .header-content.video-section .button.transparent:hover {
 /*Banner Form*/
 .bformBox {
 	background: #fff;
-	border-bottom: 5px solid #db3636;
+	border-bottom: 5px solid #3f260cba;
 	padding: 30px;
 	margin-top: 50px;
 }
@@ -1191,7 +1191,7 @@ header .header-content.video-section .button.transparent:hover {
 }
 
 .bformBox .btn {
-	background: #db3636;
+	background: #3f260cba;
 	width: 100%;
 	border-radius: 0;
 	color: #fff;
@@ -1241,11 +1241,11 @@ header .header-content.video-section .button.transparent:hover {
 	}
 
 	75% {
-		background-color: #db3636;
+		background-color: #3f260cba;
 	}
 
 	100% {
-		background-color: #db3636;
+		background-color: #3f260cba;
 	}
 }
 
@@ -1264,11 +1264,11 @@ header .header-content.video-section .button.transparent:hover {
 	}
 
 	75% {
-		background-color: #db3636;
+		background-color: #3f260cba;
 	}
 
 	100% {
-		background-color: #db3636;
+		background-color: #3f260cba;
 	}
 }
 
@@ -1293,7 +1293,7 @@ header .header-content.video-section .button.transparent:hover {
 .counterbox {
 	border: 1px solid #fff;
 	padding: 20px;
-	background: #db3636;
+	background: #3f260cba;
 	padding: 20px;
 }
 
@@ -1698,7 +1698,7 @@ a.wit-btn {
 }
 
 #about .about-desc a:hover {
-	color: #db3636;
+	color: #3f260cba;
 }
 
 .circleList {
@@ -1712,7 +1712,7 @@ a.wit-btn {
 }
 
 .circleList li .cricle {
-	color: #db3636;
+	color: #3f260cba;
 	font-size: 36px;
 	text-align: center;
 	margin: 0 auto;
@@ -1738,7 +1738,7 @@ a.wit-btn {
 }
 
 #about .team-wrapper strong {
-	color: #db3636;
+	color: #3f260cba;
 	font-weight: 600;
 }
 
@@ -1788,7 +1788,7 @@ ul.orderlist li:before {
 	position: absolute;
 	left: 0;
 	vertical-align: middle;
-	color: #db3636;
+	color: #3f260cba;
 }
 
 /*********************************************
@@ -1822,7 +1822,7 @@ ul.orderlist li:before {
 	margin-top: 30px;
 	text-transform: uppercase;
 	font-weight: 600;
-	background: #db3636;
+	background: #3f260cba;
 	border-radius: 4px;
 }
 
@@ -1893,7 +1893,7 @@ ul.orderlist li:before {
 
 .howlist li .iconcircle i {
 	font-size: 24px;
-	color: #db3636;
+	color: #3f260cba;
 	margin-top: 22px;
 	display: block;
 }
@@ -1938,12 +1938,12 @@ ul.orderlist li:before {
 }
 
 #practicearea .service-thumb h4 {
-	color: #db3636;
+	color: #3f260cba;
 	font-size: 20px;
 }
 
 #service .thumb-icon {
-	border: 1px solid #db3636;
+	border: 1px solid #3f260cba;
 	width: 70px;
 	height: 70px;
 	border-radius: 5px;
@@ -1954,7 +1954,7 @@ ul.orderlist li:before {
 	-webkit-transition: ease-in-out 0.3s;
 	-moz-transition: ease-in-out 0.3s;
 	-ms-transition: ease-in-out 0.3s;
-	color: #db3636;
+	color: #3f260cba;
 }
 
 #service .thumb-icon {}
@@ -1975,7 +1975,7 @@ ul.orderlist li:before {
 	-webkit-transform: scale(1.2) rotate(5deg);
 	-o-transform: scale(1.2) rotate(5deg);
 	transform: scale(1.2) rotate(5deg);
-	background: #db3636;
+	background: #3f260cba;
 	color: #fff;
 }
 
@@ -1989,7 +1989,7 @@ ul.orderlist li:before {
 }
 
 #practicearea .btn:hover {
-	background: #db3636;
+	background: #3f260cba;
 }
 
 
@@ -2032,7 +2032,7 @@ ul.orderlist li:before {
 
 .testimonials li .clientinfo strong {
 	display: block;
-	color: #db3636;
+	color: #3f260cba;
 	font-size: 18px;
 }
 
@@ -2155,7 +2155,7 @@ ul.orderlist li:before {
 
 .team-thumb h4 {
 	margin: 0 0 5px 0;
-	color: #db3636;
+	color: #3f260cba;
 	font-size: 24px;
 }
 
@@ -2191,7 +2191,7 @@ ul.orderlist li:before {
 }
 
 .social li a:hover {
-	background: #db3636;
+	background: #3f260cba;
 }
 
 .attorneytop {
@@ -2207,7 +2207,7 @@ ul.orderlist li:before {
 }
 
 .attorneytop h2 {
-	color: #db3636;
+	color: #3f260cba;
 	font-size: 30px;
 	line-height: 36px;
 }
@@ -2239,7 +2239,7 @@ ul.orderlist li:before {
 
 .address li i {
 	margin-right: 10px;
-	color: #db3636
+	color: #3f260cba
 }
 
 .attorneydetail h1 {
@@ -2248,7 +2248,7 @@ ul.orderlist li:before {
 }
 
 .attorneydetail h2 {
-	color: #db3636;
+	color: #3f260cba;
 	font-size: 24px;
 }
 
@@ -2268,7 +2268,7 @@ ul.orderlist li:before {
 	content: '\f061';
 	font-family: 'FontAwesome';
 	left: 0;
-	color: #db3636;
+	color: #3f260cba;
 }
 
 .attorneyContact {
@@ -2384,7 +2384,7 @@ ul.orderlist li:before {
 
 .packageList li .price strong {
 	font-size: 48px;
-	color: #db3636;
+	color: #3f260cba;
 	display: block;
 }
 
@@ -2402,7 +2402,7 @@ ul.orderlist li:before {
 }
 
 .packageList li .booknow a {
-	background: #db3636;
+	background: #3f260cba;
 	color: #fff;
 	text-transform: uppercase;
 	font-size: 16px;
@@ -2433,7 +2433,7 @@ ul.orderlist li:before {
 .faqs h4 a {
 	padding: 10px 55px 10px 15px;
 	display: block;
-	background: #db3636;
+	background: #3f260cba;
 	color: #fff;
 	font-size: 16px;
 	position: relative;
@@ -2454,7 +2454,7 @@ ul.orderlist li:before {
 .faqs h4 a:hover,
 .faqs h4 a:active {
 	text-decoration: none;
-	background: #db3636;
+	background: #3f260cba;
 	color: #fff;
 }
 
@@ -2464,7 +2464,7 @@ ul.orderlist li:before {
 	font-family: 'FontAwesome';
 	width: 30px;
 	padding: 6px 0;
-	color: #db3636;
+	color: #3f260cba;
 	position: absolute;
 	right: 15px;
 	top: 8px;
@@ -2548,7 +2548,7 @@ ul.orderlist li:before {
 	z-index: 3;
 	width: 0;
 	height: 0;
-	border-left: 24px solid #db3636;
+	border-left: 24px solid #3f260cba;
 	border-top: 15px solid transparent;
 	border-bottom: 15px solid transparent;
 	top: 16px;
@@ -2620,7 +2620,7 @@ ul.orderlist li:before {
     Taglinewrap section
 -----------------------------------------*/
 .taglinewrap {
-	background: #db3636;
+	background: #3f260cba;
 	text-align: center;
 	padding: 50px 0;
 }
@@ -2720,7 +2720,7 @@ ul.orderlist li:before {
 	color: #fff;
 	font-weight: 600;
 	padding: 7px 15px;
-	background: #db3636;
+	background: #3f260cba;
 	border-radius: 4px;
 }
 
@@ -2762,7 +2762,7 @@ ul.orderlist li:before {
 }
 
 .contact-form h4 span {
-	color: #db3636;
+	color: #3f260cba;
 	font-weight: 400;
 }
 
@@ -2784,7 +2784,7 @@ ul.orderlist li:before {
 
 .contact-form input:focus,
 .contact-form textarea:focus {
-	border-color: #db3636 !important;
+	border-color: #3f260cba !important;
 }
 
 .contact-form textarea {
@@ -2793,7 +2793,7 @@ ul.orderlist li:before {
 }
 
 .contact-form button#submit {
-	background-color: #db3636;
+	background-color: #3f260cba;
 	border: none;
 	border-radius: 4px;
 	color: #ffffff;
@@ -2816,14 +2816,14 @@ ul.orderlist li:before {
 }
 
 .contact>span {
-	color: #db3636;
+	color: #3f260cba;
 	float: left;
 	font-size: 30px;
 	line-height: 55px;
 	text-align: center;
 	width: 60px;
 	height: 60px;
-	border: 1px solid #db3636;
+	border: 1px solid #3f260cba;
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 	background: #fff;
 	border-radius: 5px;
@@ -2876,7 +2876,7 @@ ul.orderlist li:before {
 
 #address .fa {
 	font-size: 42px;
-	color: #db3636;
+	color: #3f260cba;
 	float: left;
 	width: 50px;
 	height: 70px;
@@ -2921,7 +2921,7 @@ ul.orderlist li:before {
 -----------------------------------------*/
 
 footer {
-	background: #db3636;
+	background: #3f260cba;
 	padding-top: 50px;
 	padding-bottom: 50px;
 	text-align: center;
@@ -2943,7 +2943,7 @@ footer {
 }
 
 .socialLinks a:hover {
-	color: #db3636;
+	color: #3f260cba;
 }
 
 .socialLinks a i {
@@ -2983,7 +2983,7 @@ footer .footer-copyright p {
 
 /*Page Title*/
 .pageTitle {
-	background: #db3636 url(../images/title-bg.jpeg) no-repeat;
+	background: #3f260cba url(../images/title-bg.jpeg) no-repeat;
 	background-size: cover;
 	padding: 50px 0;
 }
@@ -3072,7 +3072,7 @@ footer .footer-copyright p {
 }
 
 .error-msg .btn {
-	background: #db3636;
+	background: #3f260cba;
 	color: #fff;
 	margin-top: 30px;
 	border-radius: 0;
@@ -3121,7 +3121,7 @@ footer .footer-copyright p {
 
 .blogList li:hover {
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-	border-color: #db3636;
+	border-color: #3f260cba;
 }
 
 .postimg {
@@ -3138,9 +3138,9 @@ footer .footer-copyright p {
 	padding: 7px 10px 0 10px;
 	text-align: center;
 	line-height: 20px;
-	background: #db3636;
+	background: #3f260cba;
 	letter-spacing: 0.4px;
-	outline: 3px solid #db3636;
+	outline: 3px solid #3f260cba;
 	border: 1px solid #fff;
 	position: absolute;
 	left: 14px;
@@ -3155,7 +3155,7 @@ footer .footer-copyright p {
 .post-header h4 a,
 .post-header h4 {
 	font-size: 24px;
-	color: #db3636;
+	color: #3f260cba;
 	font-weight: 600;
 }
 
@@ -3170,7 +3170,7 @@ footer .footer-copyright p {
 
 .postmeta span,
 .postmeta a {
-	color: #db3636;
+	color: #3f260cba;
 }
 
 .blogList p,
@@ -3292,7 +3292,7 @@ blockquote:after {
 
 .comments .media h6 {
 	font-weight: 600;
-	color: #db3636;
+	color: #3f260cba;
 	font-size: 16px;
 	text-transform: none;
 }
@@ -3310,7 +3310,7 @@ blockquote:after {
 }
 
 .comments .btn.raply:hover {
-	background: #db3636;
+	background: #3f260cba;
 	color: #fff;
 }
 
@@ -3350,7 +3350,7 @@ blockquote:after {
 }
 
 .commnetsfrm .btn {
-	background: #db3636;
+	background: #3f260cba;
 	color: #fff;
 	font-weight: 700;
 	margin-top: 20px;
@@ -3402,13 +3402,13 @@ blockquote:after {
 	font-family: 'FontAwesome';
 	position: absolute;
 	left: 0px;
-	color: #db3636;
+	color: #3f260cba;
 	font-size: 14px;
 	top: 7px;
 }
 
 .categories li a:hover {
-	color: #db3636;
+	color: #3f260cba;
 }
 
 /*Archives*/
@@ -3443,7 +3443,7 @@ blockquote:after {
 }
 
 .archive li a:hover span {
-	background: #db3636;
+	background: #3f260cba;
 	color: #fff;
 }
 
@@ -3484,7 +3484,7 @@ blockquote:after {
 .papu-post .media-heading {
 	display: inline-block;
 	width: 100%;
-	color: #db3636;
+	color: #3f260cba;
 	margin-top: 0px;
 	line-height: 20px;
 }
@@ -3520,8 +3520,8 @@ blockquote:after {
 }
 
 .tags a:hover {
-	border: 1px solid #db3636;
-	background: #db3636;
+	border: 1px solid #3f260cba;
+	background: #3f260cba;
 	color: #fff;
 	text-decoration: none;
 }
@@ -3581,7 +3581,7 @@ blockquote:after {
 	position: absolute;
 	display: block;
 	height: 2px;
-	background-color: #db3636;
+	background-color: #3f260cba;
 	left: 0px;
 	bottom: -10px;
 	content: "";
@@ -3599,7 +3599,7 @@ blockquote:after {
 }
 
 .footer-lwf ul.footer-contact li {
-	color: #db3636;
+	color: #3f260cba;
 }
 
 .footer-lwf ul.footer-contact li i.fa {
@@ -3651,7 +3651,7 @@ blockquote:after {
 
 .newsletter .news-btn {
 	color: #fff;
-	background-color: #db3636;
+	background-color: #3f260cba;
 	width: 50px;
 	height: 100%;
 	position: absolute;
